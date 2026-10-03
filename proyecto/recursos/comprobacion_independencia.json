@@ -1,0 +1,23 @@
+{
+  "comprobaciones": [
+    {
+      "notebook": "proyecto_final_mineria_de_datos_2.ipynb",
+      "otro_notebook_ausente": true,
+      "celdas_ejecutadas": 25,
+      "errores": 0,
+      "validacion_correcta": true,
+      "segundos": 38.94
+    },
+    {
+      "notebook": "proyecto_final_mineria_de_datos.ipynb",
+      "otro_notebook_ausente": true,
+      "celdas_ejecutadas": 13,
+      "errores": 0,
+      "validacion_correcta": true,
+      "segundos": 37.9
+    }
+  ],
+  "sha256_original_sin_cambios": "fe4efe51ef8fd4b77dec16f74cf51d337a7cf9daeb2216a98b1d0264579e992f",
+  "fuentes_analiticas_sin_cambios": true,
+  "alcance": "Ejecuto cada notebook con las salidas reales y scripts comunes en una carpeta aislada que solo contiene ese notebook. Los datos se comparten mediante enlaces de solo lectura por el flujo probado."
+}

@@ -1,0 +1,26 @@
+{
+  "estructura_notebook_valida": true,
+  "notebook": "proyecto/proyecto_final_mineria_de_datos_2.ipynb",
+  "recursos": "proyecto/recursos_2",
+  "celdas": 83,
+  "celdas_python": 25,
+  "secciones_1_a_15": true,
+  "dependencias_instaladas": {
+    "gdown": "6.4.1",
+    "tzdata": "2026.4",
+    "matplotlib": "3.11.2",
+    "ipykernel": "6.29.5",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2"
+  },
+  "referencias_a_versiones_anteriores_en_codigo": 0,
+  "historico_necesario": false,
+  "enlaces_vigentes": 60,
+  "enlaces_documentales_ausentes": [],
+  "salidas_analiticas_faltantes": [],
+  "manifiestos_verificados": [
+    "manifiesto_eda.json",
+    "manifiesto_fuentes.json"
+  ],
+  "alcance": "Valido estructura, dependencias y rutas; no ejecuto main.py ni atribuyo causas a las fallas."
+}

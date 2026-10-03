@@ -1,0 +1,9 @@
+# Dependencias comunes del análisis, la descarga, el EDA, la revisión y el notebook.
+# Utilizo este único archivo para instalar el proyecto (Python >= 3.11).
+# pip instala las dependencias transitivas; SQLite y el evaluador KNN son estándar.
+gdown==6.4.1
+tzdata==2026.4
+matplotlib==3.11.2
+ipykernel==6.29.5
+nbformat==5.10.4
+nbclient==0.10.2

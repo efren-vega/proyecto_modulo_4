@@ -1,0 +1,65 @@
+{
+  "fecha_revision": "2026-10-02T18:09:23.966717-06:00",
+  "fuentes": [
+    {
+      "ruta": "config.json",
+      "bytes": 1091,
+      "sha256": "61d3cbb51459461673703aac36ec6bd78c9be8800096610d48dc8cd2ae023d39"
+    },
+    {
+      "ruta": "src/analisis.py",
+      "bytes": 43789,
+      "sha256": "76497a49c47d3b6682dfacabe512328c8003eb78a4041ab7368cb10645083d24"
+    },
+    {
+      "ruta": "proyecto/eda.py",
+      "bytes": 16473,
+      "sha256": "b85caebaa0e45e88437155f7415e23eca85aa2e523f42fac3ce1817e1ca826d2"
+    },
+    {
+      "ruta": "resultados/control_calidad.json",
+      "bytes": 14034,
+      "sha256": "762a7586970a031dbf5218cedf8500b0e140358ced47da502e0e3c20682eeea3"
+    },
+    {
+      "ruta": "resultados/resumen_ejecucion.json",
+      "bytes": 1121,
+      "sha256": "ab01146b3e40fcf4eb358d455f42bdacba76d7d2a49d4972778117e6aa1b26c5"
+    },
+    {
+      "ruta": "resultados/comparacion_periodo_zona.csv",
+      "bytes": 99859,
+      "sha256": "9154bec5e8a53eb5506871ab37a43fb1f59c6ac067d2055d402eff78198f456f"
+    },
+    {
+      "ruta": "resultados/comparacion_diaria_zona.csv",
+      "bytes": 2926751,
+      "sha256": "0ba2d317809c3351dff0c6fba79295ff59880b64ba08155fcf31c744dabae163"
+    },
+    {
+      "ruta": "resultados/comparacion_por_partido_zona.csv",
+      "bytes": 8127285,
+      "sha256": "01b1e26f50dd99c73c80b9857b640e07fa2d18b701578fe55b4dbf46ce3498c2"
+    },
+    {
+      "ruta": "resultados/alertas_ordenadas.csv",
+      "bytes": 2032156,
+      "sha256": "faee7ee7aead542c1a40d902cf2e2aad6af9a59cb19515f8d4db77a28237ef97"
+    },
+    {
+      "ruta": "resultados/fallas_generales_por_cliente.csv",
+      "bytes": 436176284,
+      "sha256": "52d2bb5d966c4d71b24c6e1d6131efbe517ddef9eafe1cd64f41645cca247223"
+    },
+    {
+      "ruta": "proyecto/revision.py",
+      "bytes": 16828,
+      "sha256": "56b4259ab06dddafb8007aa2ea36678b18371fdd1948b8508ad328bb213b14ef"
+    },
+    {
+      "ruta": "requirements.txt",
+      "bytes": 345,
+      "sha256": "96c8c147340f4c2f71d6b5320a96d4c929cbee61de3678e41f21d50ca6ed8066"
+    }
+  ]
+}

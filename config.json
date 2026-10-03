@@ -1,0 +1,27 @@
+{
+  "carpeta_datos": "raw_data",
+  "descargar_datos": true,
+  "fuentes_drive": {
+    "region_y_calendario": "https://drive.google.com/drive/folders/19JTsHrBjNzTM80EUv2xZV1psnpmMrU2H",
+    "fallas_generales": "https://drive.google.com/drive/folders/18zdTVbbvwNwbSc9ahTIlc24zj1-vLsPG",
+    "fallas_clientes": "https://drive.google.com/drive/folders/1P3LONAgB2aJTMoK1Jyr1dlMkdX7nG3_2"
+  },
+  "modo_fuentes": "filtrado",
+  "partes_irc_esperadas": 64,
+  "dimension_region": "raw_data/region_y_calendario/Dataset_Dim_Region.csv",
+  "calendario": "raw_data/region_y_calendario/calendario_partidos_2026.csv",
+  "partidos_esperados": 104,
+  "carpeta_resultados": "resultados",
+  "inicio_analisis": "2026-06-11",
+  "fin_analisis": "2026-07-19",
+  "anios_comparacion": [2024, 2025],
+  "niveles_geograficos": ["ENTIDAD_FEDERATIVA", "HUB_CM", "PLAZA"],
+  "minutos_antes": 30,
+  "minutos_despues": 180,
+  "minimo_ventanas_comparables": 2,
+  "k_vecinos_distancia": 1,
+  "minimo_clientes_anomalia": 10,
+  "minimo_exceso_clientes": 10,
+  "minimo_puntuacion_distancia": 3.0,
+  "exigir_dias_completos": true
+}
